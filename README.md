@@ -26,5 +26,4 @@ Este é um projeto simples feito em Python para treinar a lógica de programaç�
 ## Como visualizar o projeto 📂
 
 1. Faça o download ou clone este repositório:  
-   ```bash
-https://github.com/ANAMONTEIROMISQUITA/Conversor-de-numeros-.git
+   ```bash https://github.com/ANAMONTEIROMISQUITA/Conversor-de-numeros-.git
